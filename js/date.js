@@ -29,7 +29,7 @@ console.log(dateNow.toISOString());
 
 // Bài tập:
 const now = new Date("Sun May 29 2022 20:45:23 GMT+0700"); // 29/5/2022
-// console.log("Bài tập: ", now);
+console.log("Bài tập: ", now);
 const nowYear = now.getFullYear();
 const nowMonth = now.getMonth() + 1;
 const nowDate = now.getDate();
@@ -40,5 +40,5 @@ console.log(`${nowDate}/${prefixMonth}${nowMonth}/${nowYear}`);
 
 //setTimeout vs setInterval
 // setTimeout(() => {
-//   alert("call me after 3000");
+//     alert("call me after 3000");
 // }, 3000);
