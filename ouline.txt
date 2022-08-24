@@ -1,0 +1,14 @@
+Các hàm hay dùng với String
+
+- index
+- lenght
+- split
+- toLowerCase: in thường
+- toUpperCase: in hoa
+- startsWith: trả về kiểu true or false
+- endsWith
+- includes: check trong String có chứa ký tự hay không cũng trả về true or false
+- replace: dùng để thay thế 
+- slice: slice(start, end) tách chuỗi ra
+- substr:
+- substring:
